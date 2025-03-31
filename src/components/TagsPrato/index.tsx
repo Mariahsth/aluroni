@@ -2,7 +2,7 @@ import classNames from "classnames";
 import styles from "./TagsPrato.module.scss";
 import { Prato } from "types/Prato";
 
-export function TagsPrato({ category, size, serving, price }: Prato) {
+export default function TagsPrato({ category, size, serving, price }: Prato) {
   return (
     <div className={styles.tags}>
       <div
