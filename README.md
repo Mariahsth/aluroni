@@ -1,46 +1,76 @@
-# Getting Started with Create React App
+# Aluroni  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![aluroni](https://github.com/user-attachments/assets/f263c43a-0c3e-47cf-ba69-ec51d65c7a22)
 
-## Available Scripts
+Projeto front-end de site pizzaria.
 
-In the project directory, you can run:
+## ✔️ Principais tecnologias utilizadas
+
+* React
+* Typescript
+* Node.js
+* Jest
+* CSS
+* Eslint
+
+<a href="https://aluroni-snowy.vercel.app/cardapio"> Link do projeto <a/>
+
+## 🔨 Recursos do aplicativo
+-`Acessar informações sobre cada prato`  
+
+![Video_250513100311](https://github.com/user-attachments/assets/b14bccb0-f0b6-46e1-b23d-f64406cc6979)
+
+-`Filtrar pratos por categoria`  
+
+![Video_250513101450](https://github.com/user-attachments/assets/f9328d4b-2b9f-47b3-8cc1-31bb2aca27cc)
+
+-`Buscar pratos por nome`  
+
+![Video_250513101643](https://github.com/user-attachments/assets/49ea04ca-27d0-4f90-a0a0-d9668b0b208f)
+
+-`Ordenar pratos por preço, porção ou quantidade de pessoas servidas`  
+
+![Video_250513101818](https://github.com/user-attachments/assets/dcb2b1b9-73e4-4b64-89d1-761c1b92772e)
+
+
+## ▶️ Como iniciar o projeto?
+
+No diretório do projeto, rodar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Roda o aplicativo no modo desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para acessar no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A página vai recarregar se fizer edições.\
+Você também verá qualquer erro de lint no console
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+Inicia o executor de testes no modo de observação interativa.\
+Consulte a seção sobre  [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila o aplicativo para produção na pasta `build`.\
+Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A compilação é minificada e os nomes dos arquivos incluem os hashes.\
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Seu aplicativo está pronto para fazer deploy!
+
+Consulte a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Observação: esta é uma operação unidirecional. Depois de `ejetar`, você não pode voltar!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se não estiver satisfeito com a ferramenta de compilação e as opções de configuração, você pode executar `eject` a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc.) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto `eject`, continuarão funcionando, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto, você está por conta própria.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Você nunca precisa usar `eject`. O conjunto de recursos selecionados é adequado para implantações de pequeno e médio porte, e você não deve se sentir obrigado a usá-lo. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
 
-## Learn More
+O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
