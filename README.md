@@ -8,7 +8,6 @@ Projeto front-end de site pizzaria.
 
 * React
 * Typescript
-* Node.js
 * Jest
 * CSS
 * Eslint
